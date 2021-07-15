@@ -7,8 +7,8 @@
  *   - Not required, but major bonus points awarded
  */
 
-// Average and worst case time complexity (Big-O) of my function is: worst - sorting, average - validation of input
-// Explain: sorting -O(n^2), validation - O(n), where n - number of elements of array
+// Average and worst case time complexity (Big-O) of my function is: O(n^2)
+// Explain: O(1)+ O(n)+ O(n^2)
 
 /* module.exports = function sortArray(arr) {
   // TODO
